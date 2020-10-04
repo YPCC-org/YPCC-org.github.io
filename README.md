@@ -8,3 +8,6 @@ tmpフォルダを作り、その中に 1.jpg, 2.jpg, 3.jpg, 4.jpgの四つの�
 
 あとは $ python3 serve.py を実行して、http://localhost:\*\*\*\*indexhtml にアクセスしてください。
 
+# スクショ
+
+![image](https://github.com/kato-k/assets/blob/master/clubweb.png?raw=true)
