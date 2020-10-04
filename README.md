@@ -4,9 +4,9 @@
 
 # 使い方
 
-tmpフォルダを作り、その中に 1.jpg, 2.jpg, 3.jpg, 4.jpgの四つの好きな画像をぶち込みましょう。
+`tmp`フォルダを作り、その中に`1.jpg`,`2.jpg`,`3.jpg`,`4.jpg`の四つの好きな画像をぶち込みましょう。
 
-あとは $ python3 serve.py を実行して、http://localhost:\*\*\*\*index.html にアクセスしてください。
+あとは $ python3 serve.py を実行して、`http://localhost:****index.html` にアクセスしてください。
 
 # スクショ
 
