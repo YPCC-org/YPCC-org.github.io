@@ -7,7 +7,7 @@ html {
 /* header */
 header {
     text-align: center;
-    font-size: 40px;
+    font-size: 20px;
     border-bottom: solid 3px #000;
 }
 header a {
@@ -76,8 +76,8 @@ p {
 #twitter {
     background: #00acee;
 }
-#facebook {
-    background: #3e5998;
+#github {
+    background: #000000;
 }
 #copylight {
     font-size: 13px;
