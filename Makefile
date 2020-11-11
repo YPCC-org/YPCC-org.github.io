@@ -1,5 +1,5 @@
 src_path = src
-target_path = target
+target_path = YPCC-org.github.io
 
 join :
 	# index.html の作成
