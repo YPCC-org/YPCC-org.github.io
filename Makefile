@@ -1,5 +1,5 @@
 src_path = src
-target_path = target
+target_path = docs
 
 all : clean join copy
 
