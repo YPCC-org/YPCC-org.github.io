@@ -1,5 +1,5 @@
 src_path = src
-target_path = YPCC-org.github.io
+target_path = target
 
 all : clean join copy
 
