@@ -28,6 +28,7 @@ jobs:
         run: | 
           make
       - name: push
+        run: |
           git config --local user.email "peony.btn@gmail.com"
           git config --local user.name "kato-k"
           git add docs/**
