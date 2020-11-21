@@ -30,7 +30,8 @@ jobs:
 
       - name: push
         run: |
-          git config user.name "kato-k"
-          git config user.email "peony.btn@gmail.com"
+          git config user.name "${{ secrets.ACTION_USER_NAME }}"
+          git config user.email "${{ secrets.ACTION_EMAIL }}"
           git add .
-          git status
+          git commit --allow-empty -m "Update docs" 
+          git push "https://${GIT_USER}:${{ secrets.TOKEN }}@github.com/${GIT_REPOSITORY}"
