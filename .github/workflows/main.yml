@@ -27,7 +27,7 @@ jobs:
 
       - name: make
         run: |
-          apt-get install -y pandoc
+          sudo apt-get install -y pandoc
           make
       
       - name: pwd
