@@ -27,6 +27,3 @@ jobs:
       - name: make
         run: | 
           make
-          git add docs/**
-          git commit -m "Update docs"
-          git push "https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git"
