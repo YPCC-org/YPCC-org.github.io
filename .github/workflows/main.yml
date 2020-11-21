@@ -32,6 +32,6 @@ jobs:
           git config --local user.email "peony.btn@gmail.com"
           git config --local user.name "kato-k"
           git add .
-          git commit -m "Update docs"
+          git commit -m "Update docs"　--allow-empty
           git pull
           git push
