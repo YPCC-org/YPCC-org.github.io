@@ -38,5 +38,5 @@ jobs:
           git config user.name "${{ secrets.ACTION_USER_NAME }}"
           git config user.email "${{ secrets.ACTION_EMAIL }}"
           git add .
-          git commit --allow-empty -m "Update docs" 
+          git commit --allow-empty -m "Update docs [github actions]" 
           git push "https://ypcc-org:${{ secrets.TOKEN }}@github.com/ypcc-org/webpage" HEAD
