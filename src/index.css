@@ -7,7 +7,7 @@ html {
 /* header */
 header {
     text-align: center;
-    font-size: 20px;
+    font-size: 3em;
     border-bottom: solid 3px #000;
 }
 header a {
@@ -22,9 +22,9 @@ header a {
     padding: 0;
 }
 .link {
-    font-size: 10pt;
-    width: 75px;
-    height: 50px;
+    font-size: 2em;
+    width: 7em;
+    height: 2em;
     text-align: center;
     border: none;
     background-color: white;
@@ -43,7 +43,11 @@ article {
 h1 {
     border-bottom: double medium black;
 }
+h2 {
+  font-size: 2.7em;
+}
 p {
+    font-size: 2.5em;
     margin-left: 10px;
     margin-right: 10px;
 }
@@ -66,12 +70,13 @@ p {
 }
 .sns-button {
     color: white;
-    width: 80px;
-    height: 20px;
+    width: 120px;
+    height: 60px;
     border-radius: 10px 10px 10px 10px;
     margin-left: 3px;
     margin-right: 3px;
     border: none;
+    font-size: 1.5em;
 }
 #twitter {
     background: #00acee;
@@ -80,5 +85,5 @@ p {
     background: #000000;
 }
 #copylight {
-    font-size: 13px;
+    font-size: 1em;
 }
