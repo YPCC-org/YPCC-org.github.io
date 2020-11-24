@@ -1,2 +1,2 @@
 ## Member
-test member
+メンバー募集中！
