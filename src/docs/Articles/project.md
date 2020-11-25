@@ -1,7 +1,7 @@
 !!! Note
 	メンバーが書いた記事や制作物です  
   
-[@akTARDIGRADE13 :fa-external-link:](https://twitter.com/akTARDIGRADE13)
+[@akTARDIGRADE13 :fa-external-link:](https://twitter.com/tardigr04432373)
 
 ||||
 |---|---|---|
