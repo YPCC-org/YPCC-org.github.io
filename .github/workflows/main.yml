@@ -27,6 +27,8 @@ jobs:
 
       - name: install_dependence
         run: |
+          curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+          python3 get-pip.py
           make install_dependence
           
       - name: build
