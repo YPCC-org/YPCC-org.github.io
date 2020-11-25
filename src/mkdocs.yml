@@ -1,0 +1,31 @@
+site_name: 屋代高校PC同好会のサイト
+
+nav:
+- Home: 'index.md'
+- リンク集: 'Articles/project.md'
+- About:
+    - '自己紹介': 'About/intro.md'
+    - 'メンバー': 'About/member.md'
+
+theme: 
+    name: material
+    favicon: assets/favicon.ico
+    logo: assets/logo.jpg
+    language: 'ja'
+    features:
+        - header.autohide
+
+markdown_extensions:
+    - admonition
+    - fontawesome_markdown
+
+extra_css:
+    - "https://fonts.googleapis.com/earlyaccess/notosansjp.css"
+    - "https://fonts.googleapis.com/css?family=Open+Sans:600,800"
+    - "css/style.css"
+    - "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"
+
+extra:
+    search:
+        language: 'en, ja'
+        
