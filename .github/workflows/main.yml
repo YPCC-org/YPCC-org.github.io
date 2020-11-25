@@ -25,13 +25,13 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      - name: make
+      - name: install_dependence
         run: |
-          sudo apt-get install -y pandoc
+          make install_dependence
+          
+      - name: build
+        run: |
           make
-      
-      - name: pwd
-        run: pwd
 
       - name: push
         run: |
