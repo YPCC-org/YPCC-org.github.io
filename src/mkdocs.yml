@@ -28,5 +28,10 @@ extra_css:
 extra:
     search:
         language: 'en, ja'
+    social:
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/yashiroPcClub
+        - icon: fontawesome/brands/github
+          link: https://github.com/ypcc-org
 
 copyright: Copyright &copy; 2020 YPCC - Yashiro Computer club
