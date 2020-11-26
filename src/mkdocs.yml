@@ -32,6 +32,8 @@ extra:
     social:
         - icon: fontawesome/brands/twitter
           link: https://twitter.com/yashiroPcClub
+        - icon: fontawesome/brands/instagram
+          link: https://www.instagram.com/ypcc_org/
         - icon: fontawesome/brands/github
           link: https://github.com/ypcc-org
 
