@@ -1,7 +1,7 @@
 !!! Note
-	メンバーが書いた記事や制作物です  
+    メンバーが書いた記事や制作物です  
   
-[@akTARDIGRADE13 :fa-external-link:](https://twitter.com/tardigr04432373)
+[@akTARDIGRADE13 :fa-twitter:](https://twitter.com/tardigr04432373)
 
 ||||
 |---|---|---|
@@ -9,7 +9,7 @@
 |@akTARDIGRADE13|[Swift版 競プロ用チートシート(初心者向け)](https://qiita.com/TARDIGRADE/items/71b0a774d7f22418fdf5)||
 
 
-[@uvrub :fa-external-link:](https://twitter.com/uvrub)
+[@uvrub :fa-twitter:](https://twitter.com/uvrub)
 
 ||||
 |---|---|---|

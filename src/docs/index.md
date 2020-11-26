@@ -1,13 +1,23 @@
-## 屋代PC同好会結成会のWebサイトにようこそ
+# 屋代PC同好会結成会のWebサイトにようこそ
+![TOP](assets/header.jpeg)
 
-### 結成会とは？
+## 結成会とは？
+屋代高校にPC同好会を作ろうとしている人たちのあつまりです！  
 
-### どんなことをするの？
+[-> もっと詳しく! <-](about/intro){: .md-button }
 
-### こんなことをしています
+## どんなことをするの？
+現在はメンバーがそれぞれの活動を報告したり、相談したりしています。  
+競技プログラミングのコンテストに参加していたりもします。
 
-### Twitter
+## 活動の記録
+|||
+|---|---|
+|パソコン甲子園への出場|[PCKについて :fa-external-link:](http://web-ext.u-aizu.ac.jp/pc-concours/){: .md-button }|
+|記事の執筆|[詳しくみる](Articles/project){: .md-button }|
+もっとたくさんあります！
 
-<div style="text-align: center;">
-<a class="twitter-timeline" data-width="320" data-height="700" data-theme="dark" href="https://twitter.com/YashiroPCClub?ref_src=twsrc%5Etfw">Tweets by YashiroPCClub</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+<a class="twitter-timeline" data-width="320" data-height="400" data-theme="dark" href="https://twitter.com/YashiroPCClub?ref_src=twsrc%5Etfw">Tweets by YashiroPCClub</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[ :fa-twitter: フォローする :fa-twitter: ](https://twitter.com/yashiropcclub){: .md-button .md-button--primary }
+[ :fa-github: Githubをみる :fa-github:](https://github.com/ypcc-org){: .md-button .md-button--primary }
