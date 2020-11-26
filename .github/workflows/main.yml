@@ -2,7 +2,7 @@
 
 name: CI
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
@@ -34,8 +34,9 @@ jobs:
         run: |
           curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
           python3 get-pip.py
+          rm get-pip.py
           make install_dependence
-          
+
       - name: build
         run: |
           make
@@ -45,5 +46,5 @@ jobs:
           git config user.name "${{ secrets.ACTION_USER_NAME }}"
           git config user.email "${{ secrets.ACTION_EMAIL }}"
           git add .
-          git commit --allow-empty -m "Update docs [github actions]" 
+          git commit --allow-empty -m "Update docs [github actions]"
           git push "https://ypcc-org:${{ secrets.TOKEN }}@github.com/ypcc-org/webpage" HEAD
