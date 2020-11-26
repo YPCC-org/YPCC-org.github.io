@@ -8,6 +8,7 @@ mkdocsを使ってページを生成しています。
 ### mkdocsの設定
 ``` src/mkdocs.yml ``` がmkdocsの設定ファイルです。  
 [こちら](https://qiita.com/mebiusbox2/items/a61d42878266af969e3c) のサイトなどを参考に作りましたので、変更が可能です。  
+MKDocs for Materialのページは[こちら](https://squidfunk.github.io/mkdocs-material/)です。
 
 ### ローカル環境での編集
 #### Windows
