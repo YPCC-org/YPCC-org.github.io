@@ -17,6 +17,7 @@ theme:
 
 markdown_extensions:
     - admonition
+    - attr_list
     - fontawesome_markdown
 
 extra_css:
